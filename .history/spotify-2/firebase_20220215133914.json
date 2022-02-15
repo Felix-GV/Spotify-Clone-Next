@@ -1,0 +1,7 @@
+{
+    "hosting": {
+      "site": "felixs-spotify",
+  
+      "public": "public",
+    }
+  }
